@@ -35,17 +35,20 @@ This project analyzes Walmart's historical retail sales data across multiple sto
 ## 📊 Visualizations
 
 ### 1️⃣ Weekly Sales Trend Over Time
-![Total Weekly Sales Over Time](./op1.png)
+<img width="1280" height="692" alt="op1" src="https://github.com/user-attachments/assets/805ae4d9-0dfa-42a1-b4c0-a3ec2ffbc897" />
+
 
 - Displays seasonality and upward trends during holiday periods.
 
 ### 2️⃣ Holiday vs Non-Holiday Weekly Sales
-![Holiday Impact on Sales](./op2.png)
+<img width="1280" height="692" alt="op2" src="https://github.com/user-attachments/assets/36a7707e-39be-423c-8a11-d1fa0602f6ed" />
+
 
 - Clear uplift in sales during holiday weeks.
 
 ### 3️⃣ Correlation Heatmap with External Factors
-![Correlation Matrix](./op3.png)
+<img width="1280" height="692" alt="op3" src="https://github.com/user-attachments/assets/8ddc14b0-2b31-4d2b-bb87-bae0a0d3d35d" />
+
 
 - Highlights varying influence levels of external factors on weekly sales.
 
@@ -63,7 +66,7 @@ This project analyzes Walmart's historical retail sales data across multiple sto
 
 - **Python:** Data processing and visualization (`pandas`, `matplotlib`, `seaborn`)
 - **Excel:** Initial data review
-- **Jupyter Notebook / PyCharm:** For code execution and debugging
+- **PyCharm:** For code execution and debugging
 
 ---
 
